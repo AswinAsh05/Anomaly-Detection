@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠 Generate Synthetic Data
+## Generate Synthetic Data
 ```bash
 python data/generate_transactions.py --start 2023-01-01 --end 2024-12-31 --seed 42 --n-customers 500 --out data/transactions.csv
 ```
