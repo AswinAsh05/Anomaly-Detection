@@ -20,7 +20,6 @@ anomaly-detection/
 ├─ README.md
 ├─ LICENSE
 ├─ requirements.txt
-├─ .gitignore
 ├─ data/
 │  └─ generate_transactions.py
 ├─ src/
